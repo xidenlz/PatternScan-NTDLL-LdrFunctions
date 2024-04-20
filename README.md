@@ -5,5 +5,9 @@ The utility utilizes the FindPattern function, which iterates through the memory
 
 Additionally, the repository includes research findings on the reverse engineering and reclassing of these functions using [IDA Pro](https://hex-rays.com/ida-pro/). This research provides insights into the internal workings and structures of **LdrLoadDll** and **LdrpLoadDllInternal**, aiding in further understanding and utilization of these functions within the Windows kernel.
 You can find the reversed and reclassed functions [here](https://github.com/byte-zone/ByteZone_Injector/tree/main/Helpers/ntdll).
+
+### Results 
+- ```LdrLoadDll found at address: 0x7ff951abd771```
+- ```LdrpLoadDllInternal found at address: 0x7ff951abff67```
 > [!NOTE]
 > **Tested on Windows 10 2H22**
