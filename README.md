@@ -9,5 +9,6 @@ You can find the reversed and reclassed functions [here](https://github.com/byte
 ### Results 
 - ```LdrLoadDll found at address: 0x7ff951abd771```
 - ```LdrpLoadDllInternal found at address: 0x7ff951abff67```
+- ```LdrpLoadDll found at address: 0x7ff951a15bcc```
 > [!NOTE]
 > **Tested on Windows 10 2H22**
