@@ -1,3 +1,4 @@
+- [English](https://github.com/Mes2d/PatternScan-NTDLL-LdrFunctions?tab=readme-ov-file#patternscan-ntdll-ldrfunctions)
 ### ملخص 
 يقدم هذا البحث استكشافًا عميقًا لآليات تحميل ملفات الارتباط الديناميكي (DLL) في ntdll.dll، مكتبة نظام التشغيل ويندوز الأساسية. يركز البحث على الدوال الداخلية غير الموثقة، ويستخدم تقنيات مسح الأنماط المتقدمة لتحديد عناوينها بدقة.
 ### مقدمة 
